@@ -3,5 +3,6 @@
 - :computer: DevOps Engineer.
 - :mortar_board: Studied at ITI - Information Technology Institute.
 - :cloud: Interested in Cloud and Backend development.
+<div align= "center">[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedNabilSharawy&theme=dark)](https://git.io/streak-stats)</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedNabilSharawy&theme=dark)](https://git.io/streak-stats)
+
